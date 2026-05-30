@@ -71,6 +71,7 @@ Built Scikit-learn Pipelines combining preprocessing + model in a single seriali
 
 Both models trained via unified preprocessing + modeling pipeline.
 
+
 ---
 
 ## 📐 Evaluation Suite
@@ -97,7 +98,7 @@ Both models trained via unified preprocessing + modeling pipeline.
 
 ```bash
 # Clone the repository
-git clone https://github.com/amarkumar55/rainfall-prediction-melbourne.git
+git clone https://github.com/amarskdev/rainfall-prediction-melbourne.git
 cd rainfall-prediction-melbourne
 
 # Install dependencies
@@ -131,11 +132,30 @@ rainfall-prediction-melbourne/
 
 ---
 
-## 👤 Author
-
-**Amar Kumar** — Senior Backend Engineer · IBM Certified AI Engineer  
-📌 [LinkedIn](https://www.linkedin.com/in/amarkumar241429017) · 💻 [GitHub](https://github.com/amarkumar55)
+*Built with production ML principles — leakage prevention, deployable pipelines, and metric selection driven by real-world cost of errors.*
 
 ---
 
-*Built with production ML principles — leakage prevention, deployable pipelines, and metric selection driven by real-world cost of errors.*
+## 🤝 Connect With Me
+
+
+<div align="center">
+
+### 👤 About the Author
+
+**Amar Kumar**  
+*Senior Backend Engineer · IBM Certified AI Engineer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amarskdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarskdev)
+[![GitHub](https://img.shields.io/badge/GitHub-amarskdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amarskdev)
+[![Gmail](https://img.shields.io/badge/Gmail-amarsk.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarsk.dev@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-amarskdev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/amarskdev)
+[![Instagram](https://img.shields.io/badge/Instagram-amarsk.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amarsk.dev/)
+[![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/amarskdev/)
+
+*If you found this project useful, consider giving it a ⭐ — it means a lot!*
+
+</div>
+
+
+
